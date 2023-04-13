@@ -2,6 +2,9 @@
 
 Ejercicio de trabajo practico
 
+## Puedes chequearlo desde acá 👍
+[Cronometro](https://cronometrorc.netlify.app/) ✅
+
 ## Herramientas 🛠️
 
 - Html
